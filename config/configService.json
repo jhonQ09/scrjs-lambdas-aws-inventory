@@ -1,0 +1,39 @@
+{
+    "variables": 
+      {
+        "NODE_ENV": "production",
+        "TIME_ENV":5000
+      },
+    "horarios": 
+      {
+        "role": "22:00"
+      },
+    "rutas": 
+      {
+        "file1": "NORMAL",
+        "details": [
+          {
+            "name": "Temporada 7",
+            "episodes": "7",
+            "chapters": [
+              {
+                "episode": "1",
+                "name": "Episodio 1 y 2",
+                "description": "Episodio uno y dos de la septima temporada de Game of Thrones",
+                "filesnames": [
+                  {
+                    "language": "en",
+                    "filename": "game_of_thrones_7_ep1_2_en.mp4"
+                  },
+                  {
+                    "language": "es",
+                    "filename": "game_of_thrones_7_ep1_2_es.mp4"
+                  }
+                ],
+                "subtitles": []
+              }
+            ]
+          }
+        ]
+      }
+  }
